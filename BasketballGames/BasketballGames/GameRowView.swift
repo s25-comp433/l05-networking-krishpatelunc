@@ -1,5 +1,5 @@
 //
-//  GameView.swift
+//  GameRowView.swift
 //  BasketballGames
 //
 //  Created by Krish Patel on 3/2/25.
